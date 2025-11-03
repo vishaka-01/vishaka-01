@@ -1,7 +1,5 @@
 ![Header](./github-header-banner.png)
 
-<br />
-
 ### About me
 
 I am a backend developer specialized in JavaScript, Java and Python tech stacks. I enjoy architecting applications and providing end-to-end solutions to tech challenges. Although I specialize in backend services, I occasionally tinker with the frontend side of software. As you are checking out my profile, feel free to connect with me on LinkedIn!😄
