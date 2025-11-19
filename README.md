@@ -10,7 +10,7 @@ I am a backend developer specialized in JavaScript, Java and Python tech stacks.
 
 - Reach out to me at **[vishakagayathri.d@gmail.com](mailto://vishakagayathri.d@gmail.com)** 📫
 
-- Connect with me on **[LinkedIn](www.linkedin.com/in/vishakagayathri-d)** 🤝
+- Connect with me on **[LinkedIn](https://www.linkedin.com/in/vishakagayathri-d)** 🤝
 
 
 ### Technical Skills
